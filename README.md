@@ -27,5 +27,5 @@ To enhance collaboration, promote the broader adoption of FSKX and increase the 
 | Germany         | German Federal Institute for Risk Assessment <br> EFSA Focal Point                              | BfR          |
 | Hungary         | Individual experts<br>------------------------------------------------------------------------------------<br>National Food Chain Safety <br> EFSA Focal Point                          | NEBIH        |
 | Montenegro      | University of Donja Gorica (as subcontractor of BfR)                                        | UDG          |
-| Spain           | University of Cordoba<br>------------------------------------------------------------------------------------<br>Spanish Agency for Food Safety and Nutrition <br> EFSA Focal Point     | UCO, AESAN   |
-| The Netherlands | Dutch National Institute for Public Health and the Environment<br>------------------------------------------------------------------------------------<br>Food and Consumer Product Safety Authority <br> EFSA Focal Point | RIVM, NVMA   |
+| Spain           | University of Cordoba<br>------------------------------------------------------------------------------------<br>Spanish Agency for Food Safety and Nutrition <br> EFSA Focal Point     | UCO <br>-----------<br> AESAN   |
+| The Netherlands | Dutch National Institute for Public Health and the Environment<br>------------------------------------------------------------------------------------<br>Food and Consumer Product Safety Authority <br> EFSA Focal Point | RIVM<br>-----------<br> NVMA   |
