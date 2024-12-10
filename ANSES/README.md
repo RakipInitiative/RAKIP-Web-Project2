@@ -1,6 +1,4 @@
 # Project overview
-*tbd*
-
 ## Project name
 *tbd*
 
