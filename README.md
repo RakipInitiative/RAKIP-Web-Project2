@@ -15,7 +15,7 @@ To enhance collaboration, promote the broader adoption of FSKX and increase the 
 
 | Country         | Institution                                                                                 | Abbreviation |
 |-----------------|---------------------------------------------------------------------------------------------|--------------|
-| Denmark         | Danish Technical University National Food Institute EFSA Focal Point<br>Statens Serum Institut | DTU Food, SSI |
+| Denmark         | Danish Technical University National Food Institute<br>EFSA Focal Point<br>Statens Serum Institut | DTU Food, SSI |
 | France          | French Agency for Food, Environmental and Occupational Health & Safety                      | ANSES        |
 | Finland         | Finnish Food Authority EFSA Focal Point                                                    | FFA          |
 | Germany         | German Federal Institute for Risk Assessment EFSA Focal Point                              | BfR          |
