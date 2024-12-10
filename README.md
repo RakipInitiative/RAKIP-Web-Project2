@@ -5,9 +5,9 @@ The cooperation agreement between EFSA, BfR, ANSES and DTU-Food is called "RAKIP
 # Objectives
 To enhance collaboration, promote the broader adoption of FSKX and increase the value of the RAKIP-Web Repository it is planned to implement the following actions in this tailor-made task project:
 
-##	Establish a network of FSKX stewards that support modellers and researchers in their efforts to provide knowledge to RAKIP-Web, i.e. in an FSX-compliant way. FSKX stewards will also support the curation of models and data submitted to RAKIP-Web, so that the content in RAKIP-Web complies to the highest possible quality standards. FSKX stewards will provide support to modellers and researchers in using software tools like FSK-Lab and the model execution infrastructure linked to RAKIP-Web and the FESMJ journal.
+- Establish a network of FSKX stewards that support modellers and researchers in their efforts to provide knowledge to RAKIP-Web, i.e. in an FSX-compliant way. FSKX stewards will also support the curation of models and data submitted to RAKIP-Web, so that the content in RAKIP-Web complies to the highest possible quality standards. FSKX stewards will provide support to modellers and researchers in using software tools like FSK-Lab and the model execution infrastructure linked to RAKIP-Web and the FESMJ journal.
 
-##	Broaden the support for the FSKX exchange format in various software tools used by risk assessors and risk modellers to make the adoption of FSKX as a harmonised knowledge exchange format as convenient as possible.
+- Broaden the support for the FSKX exchange format in various software tools used by risk assessors and risk modellers to make the adoption of FSKX as a harmonised knowledge exchange format as convenient as possible.
 
-##	Extend the content of the RAKIP-Web Repository with new models and data from various risk assessment domains to promote the use of RAKIP-Web as a One Health knowledge resource.
+- Extend the content of the RAKIP-Web Repository with new models and data from various risk assessment domains to promote the use of RAKIP-Web as a One Health knowledge resource.
 
