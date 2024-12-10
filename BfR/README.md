@@ -14,12 +14,6 @@ The platform will support secure, cloud-based execution of FSKX models without r
 - Security and Efficiency: Ensure models are secure before registration in the model repository and before execution, implement security features across all microservices, and provide automated deployment environments via Docker.
 - User Management and Support: Include a user management system for Platform Administrators, enforce user-specific and microservice-specific resource quotas, and provide UIs for user feedback and support.
 
-### External Project Management
-- project repository: [github repo](https://github.com/MSG4BFR/MSG-FSKX-Production-Preparation/tree/main)
-- current development progress: [github project](https://github.com/orgs/MSG4BFR/projects/2)
-- current architecture design: [ticket](https://github.com/MSG4BFR/MSG-FSKX-Production-Preparation/issues/29)
-
-
 ## Client
 *Insert client name and contact info*
 
