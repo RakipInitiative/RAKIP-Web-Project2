@@ -1,51 +1,61 @@
 # Project overview
 
 ## Project name
-Legacy Models Conversion to FSKX Format
+FSKX-Microservice-Platform
 
 ## Project description
-The Legacy Models Conversion project was established to provide a comprehensive guide on converting legacy models into the FSKX format using the FSK-Lab extension in KNIME, as well as through the FSKX online service. The guide, documented in the project's GitLab [Wiki](https://gitlab.bfr.berlin/Omari/legacy-models-conversion/-/wikis/home), offers detailed explanations and step-by-step instructions for model conversion, facilitating the transition to the FSKX format, which is essential for ensuring model standardization and interoperability. Additionally, the project documents any issues or challenges encountered during the model conversion process in [the issues](https://gitlab.bfr.berlin/fskx-exchange-hub/legacy-models-conversion-to-fskx-format/-/issues/?sort=created_date&state=opened&first_page_size=100) section of GitLab, ensuring that potential problems are addressed and tracked to support a smooth workflow for users.
+This Platform shall be a microservices-based resource that enables Model Creators to define and shareFSKX models, Model Curators to evaluate these FSKX files before they are made accessible through a cloud-based model repository (with model versioning via Zenodo), Unregistered Users to find, search and inspect the FSKX files and Registered User to run user-defined simulations with the FSKX models from the repository. Platform Administrators will have the ability to efficiently monitor and maintain the FSKX microservice platform along with all its APIs and applications.
+The platform will support secure, cloud-based execution of FSKX models without requiring Registered Users to install software locally. Backend services will be implemented as dedicated microservices, ensuring scalability, modularity, and ease of maintenance. Dedicated UIs will be provided for Model Creators, Model Curators, Users, and Platform Administrators to interact with the platform..
+### Goals
+- Support Model Creation: Enable Model Creators to input metadata, paste their model code (supporting multiple programming languages executable without a license), and generate FSKX model files via the service.
+- Facilitate Model Review: Provide tools for Model Curators to evaluate and validate models before they are accepted into the community repository.
+- Enable execution of FSKX files for Registered Users: Allow Registered Users to execute registered FSKX models using custom input parameters without needing to install any software.
+- Microservices Architecture: Implement a modular design where key functionalities are each handled by dedicated microservices, enhancing scalability and maintainability.
+- Security and Efficiency: Ensure models are secure before registration in the model repository and before execution, implement security features across all microservices, and provide automated deployment environments via Docker.
+- User Management and Support: Include a user management system for Platform Administrators, enforce user-specific and microservice-specific resource quotas, and provide UIs for user feedback and support.
+
+### External Project Management
+- project repository: [github repo](https://github.com/MSG4BFR/MSG-FSKX-Production-Preparation/tree/main)
+- current development progress: [github project](https://github.com/orgs/MSG4BFR/projects/2)
+- current architecture design: [ticket](https://github.com/MSG4BFR/MSG-FSKX-Production-Preparation/issues/29)
+
 
 ## Client
-Internal team
+*Insert client name and contact info*
 
 ## Project lead
-Mohamed Omari
+@schuelet
 
 ## Project team
-- Mohamed Omari
-- Michael Zarske
-- Nunzio Sarnino
+@schuelet
+@filter
+@Kasradze
+@racembr
+MSG (external contractor)
 
 ## Definition of done
-- [The Metabolic-Reproductive model](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0256-7) was successfully converted from MATLAB to Octave.
-- Octave is now supported by our FSK model conversion tools.
-
-- The Metabolic-Reproductive model has been converted to FSKX format, curated and uploaded to the RAKIP web repository.
-
-
-- The FSK-Lab nodes were tested for converting models to FSKX formats. Issues encountered during the conversion process have been documented in [the issues](https://gitlab.bfr.berlin/fskx-exchange-hub/legacy-models-conversion-to-fskx-format/-/issues/?sort=created_date&state=opened&first_page_size=100) section.
-- A new FSK-Lab node called The Conda environment KNIME node has been developed and is available for supporting model conversion.
-    - Tutorials (written and video) are provided for the Conda environment node.
-
-- The FSKX online model creation service is established.
-    - Tutorials (written and video) are provided for the FSKX online model creation service.
-
-- The Self-Organized model developed in FG43, alongside the Metabolic-Reproductive model and other models, has been used to test the newly developed FSKX online model creation service. Observations and recommendations for improving the service have been documented and submitted in [the issues](https://gitlab.bfr.berlin/fskx-exchange-hub/fskx-microservice-platform/-/issues/?sort=created_date&state=opened&first_page_size=100) section.
-
-- A streamlined version of FSKX, called eFSKX, has been developed with a corresponding reduced metadata schema (see also [here](https://gitlab.bfr.berlin/fskx-exchange-hub/efskx-guidance-document)).
-- Knowledge of these tools and services has been disseminated within the scientific community.
+**Minimum Viable Product:**
+- Cloud Server based FSKX Platform 
+  - online resource to create valid FSKX model files
+  - online resource to execute curated FSKX models online
+  - system architecture and microservices adhere to BSI requirements
+  - centralized monitoring of microservices established
+  - CI/CD for microservices include unit-tests, vulnurability-scanning, automatic deployment to Cloud (AWS)
+- complete documentation of work done
+  - management summary with links to each ticket
+- runbooks to opereate AWS cloud-services and implemented microservices
+ 
 
 ## Input information
-*tbd*
+requirement analysis: [google-doc](https://docs.google.com/document/d/1I6cHCkQaCJaefLsXmQtdH74ExnBeQS_q-rwV_40FnoM/edit?tab=t.0#heading=h.vn6jbd619nez)
 
 ## Result document
-*tbd*
+*Insert link to document, once report was created*
 
 ## Expected resources required
 *tbd*
 
 ## Timeline
-Start: August 2024
-
-Expected End: December 2025
+Start: 06.09.2024 Kickoff Meeting
+Milestone 1 (minimum viable product): 31.12.2024
+Expected End: end of 2025
