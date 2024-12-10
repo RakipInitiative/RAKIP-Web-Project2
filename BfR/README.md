@@ -18,13 +18,13 @@ The platform will support secure, cloud-based execution of FSKX models without r
 *Insert client name and contact info*
 
 ## Project lead
-@schuelet
+Thomas Schüler
 
 ## Project team
-@schuelet
-@filter
-@Kasradze
-@racembr
+Thomas Schüler
+Matthias Filter
+Tinatin Kasradze
+Racem Ben-Romdhane
 MSG (external contractor)
 
 ## Definition of done
