@@ -13,13 +13,23 @@ To enhance collaboration, promote the broader adoption of FSKX and increase the 
 
 # Participating countries
 
+## Participating Countries
+
 | Country         | Institution                                                                                 | Abbreviation |
 |-----------------|---------------------------------------------------------------------------------------------|--------------|
-| Denmark         | Danish Technical University National Food Institute<br>EFSA Focal Point<br>Statens Serum Institut | DTU Food, SSI |
+| Denmark         | Danish Technical University National Food Institute EFSA Focal Point<br>Statens Serum Institut | DTU Food, SSI |
+|-----------------|---------------------------------------------------------------------------------------------|--------------|
 | France          | French Agency for Food, Environmental and Occupational Health & Safety                      | ANSES        |
+|-----------------|---------------------------------------------------------------------------------------------|--------------|
 | Finland         | Finnish Food Authority EFSA Focal Point                                                    | FFA          |
+|-----------------|---------------------------------------------------------------------------------------------|--------------|
 | Germany         | German Federal Institute for Risk Assessment EFSA Focal Point                              | BfR          |
+|-----------------|---------------------------------------------------------------------------------------------|--------------|
 | Hungary         | Individual experts<br>National Food Chain Safety EFSA Focal Point                          | NEBIH        |
+|-----------------|---------------------------------------------------------------------------------------------|--------------|
 | Montenegro      | University of Donja Gorica (as subcontractor of BfR)                                        | UDG          |
+|-----------------|---------------------------------------------------------------------------------------------|--------------|
 | Spain           | University of Cordoba<br>Spanish Agency for Food Safety and Nutrition EFSA Focal Point     | UCO, AESAN   |
+|-----------------|---------------------------------------------------------------------------------------------|--------------|
 | The Netherlands | Dutch National Institute for Public Health and the Environment<br>Food and Consumer Product Safety Authority EFSA Focal Point | RIVM, NVMA   |
+
