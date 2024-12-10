@@ -21,11 +21,11 @@ The platform will support secure, cloud-based execution of FSKX models without r
 Thomas Schüler
 
 ## Project team
-Thomas Schüler
-Matthias Filter
-Tinatin Kasradze
-Racem Ben-Romdhane
-MSG (external contractor)
+- Thomas Schüler
+- Matthias Filter
+- Tinatin Kasradze
+- Racem Ben-Romdhane
+- MSG (external contractor)
 
 ## Definition of done
 **Minimum Viable Product:**
