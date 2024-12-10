@@ -13,11 +13,6 @@ To enhance collaboration, promote the broader adoption of FSKX and increase the 
 
 # Participating countries
 
-## Participating Countries
-
-## Participating Countries
-## Participating Countries
-
 | Country         | Institution                                                                                 | Abbreviation |
 |-----------------|---------------------------------------------------------------------------------------------|--------------|
 | Denmark         | Danish Technical University National Food Institute <br> EFSA Focal Point<br>------------------------------------------------------------------------------------<br>Statens Serum Institut | DTU Food<br>-----------<br> SSI 
